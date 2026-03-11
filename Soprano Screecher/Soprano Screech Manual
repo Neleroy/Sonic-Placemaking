@@ -1,1 +1,14 @@
-A modified version of [Anchovie's PT2399 Noise Ensemble circuit] (https://www.diystompboxes.com/smfforum/index.php?topic=87493.0), turned into a touch-based instrument that can also process external sounds.
+A modified version of Anchovie's PT2399 Noise Ensemble circuit 
+(https://www.diystompboxes.com/smfforum/index.php?topic=87493.0), 
+turned into a touch-based instrument that can also process external sounds.
+Schematics of the original stripboard layout, as well as various modifications
+of the circuit, can be found online. The original circuit is preserved here,
+but with the addition of various touch points along the copper traces — the original
+design (displayed at the Here and Now exhibition) has seven touch points, but 
+further experimentation has yielded a greater number.
+
+As with the other instruments in the Screecher family, the Soprano Screecher emits
+sounds when its brass buttons are touched by human skin. Pressing different
+combinations of buttons with varying amounts of pressure is how different sounds
+are produced. The two potentiometers (knobs) adjust the volume and delay time of
+whichever sounds are processed through the input. 
