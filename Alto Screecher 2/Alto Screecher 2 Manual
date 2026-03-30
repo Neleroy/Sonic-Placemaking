@@ -1,0 +1,4 @@
+Three synced 40106 square wave oscillators (https://hackaday.com/2015/02/04/logic-noise-sweet-sweet-oscillator-sounds/), with Alto Screecher 1 connected to the first oscillator’s input. A voltage stave potentiometer is included to increase noisiness. Five touch points have been offboarded to brass contacts. Additionally, the stripboard is left exposed to be touched as well.
+
+The two main potentiometers can be turned to adjust pitch, and touching them modulates the sound—just like the brass touch points and brass strips on the stripboard. The third potentiometer restricts the current running to the circuit, “glitching” the sound of the oscillators, as well as any external device being run through the circuit’s input. This makes it a great companion to Alto Screecher 1.
+
