@@ -1,0 +1,15 @@
+An Arduino Diecimila outfitted with 
+an ATmega168, programmed with RooCode 
+(https://roocode.com), and incorporating 
+the Mozzi library 
+(https://sensorium.github.io/Mozzi/).
+
+The instrument emits a basic tone, 
+which can be filtered with the included 
+potentiometer. However, the outdated 
+Diecimila gets easily overwhelmed by its 
+flashed program, and inevitably begins 
+to glitch out and produce wonderful 
+digital noise. The potentiometer then 
+acts as a way to “fine tune” the noise, 
+like cracking a safe. 
